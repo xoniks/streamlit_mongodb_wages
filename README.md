@@ -1,0 +1,1 @@
+# streamlit_mongodb_wages
